@@ -1,0 +1,76 @@
+.admin-container {
+  width: 70%;
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  background: var(--bgColor);
+  box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgb(224, 95, 8);
+  transition: 1s;
+}
+
+.admin-container .usermanage {
+  font-family: 'Bauhaus 93';
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 2em;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.admin-container .backBtn {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  display: inline-flex;
+  align-items: center;
+  gap: 25px;
+  background: var(--bgColor);
+  border-radius: 20px;
+  padding: 10px 20px;
+  transition: 0.5s;
+}
+
+.admin-container .backBtn:hover {
+  box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.35);
+}
+
+.admin-container ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.admin-container li {
+  margin-bottom: 15px;
+}
+
+.admin-container .userids {
+  color: #ffffff;
+  font-size: 1.2em;
+  letter-spacing: 1px;
+}
+
+.admin-container .deleteBtn {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  display: inline-flex;
+  align-items: center;
+  gap: 25px;
+  background: var(--bgColor);
+  border-radius: 20px;
+  padding: 10px 20px;
+  transition: 0.5s;
+}
+
+.admin-container .deleteBtn:hover {
+  box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.35);
+}

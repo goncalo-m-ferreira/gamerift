@@ -1,0 +1,22 @@
+
+:root {
+  --primary: #cd5900;
+  --second: #cd5900;
+  --bgColor: #000000e0;
+}
+
+h1,
+h2,
+h4,
+p {
+  color: #ffffff;
+}
+
+body {
+  position: relative;
+  background: var(--bgColor);
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+}

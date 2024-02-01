@@ -1,0 +1,84 @@
+[
+  {
+    "_id": 1,
+    "title": "League of Legends",
+    "level": "Médio",
+    "category": "MOBA",
+    "rating": 3,
+    "price": 79.0,
+    "img": "./assets/games/lol-bg.jpeg",
+    "active": false
+  },
+  {
+    "_id": 2,
+    "title": "Mario Kart 8 Deluxe",
+    "level": "Fácil",
+    "category": "Racing",
+    "rating": 3,
+    "price": 52.56,
+    "img": "./assets/games/mario-bg.jpeg",
+    "active": false
+  },
+
+  {
+    "_id": 3,
+    "title": "Dota II",
+    "level": "Médio",
+    "category": "MOBA",
+    "rating": 4,
+    "price": 85.0,
+    "img": "./assets/games/dota-2-bg.jpg",
+    "active": false
+  },
+  {
+    "_id": 4,
+    "title": "King of Fighters XV",
+    "level": "Fácil",
+    "category": "Fighting",
+    "rating": 3,
+    "price": 65.6,
+    "img": "./assets/games/king-of-fighters-xv.jpeg",
+    "active": false
+  },
+
+  {
+    "_id": 5,
+    "title": "Forza Horizon 5",
+    "level": "Alta",
+    "category": "Racing",
+    "rating": 4,
+    "price": 129.0,
+    "img": "./assets/games/forza-horizon-5-bg.jpeg",
+    "active": false
+  },
+  {
+    "_id": 6,
+    "title": "Halo Infinite",
+    "level": "Média",
+    "category": "Battle",
+    "rating": 4,
+    "price": 85.8,
+    "img": "./assets/games/halo-infinite-bg.jpeg",
+    "active": false
+  },
+  {
+    "_id": 7,
+    "title": "Fortnite Spider-Man",
+    "level": "Fácil",
+    "category": "Battle",
+    "rating": 3,
+    "price": 69.0,
+    "img": "./assets/games/fortnite-bg.jpeg",
+    "active": false
+  },
+  {
+    "_id": 8,
+    "title": "Diablo III",
+    "level": "Alta",
+    "category": "RPG",
+    "rating": 5,
+    "price": 99.0,
+    "img": "./assets/games/diablo-3-bg.jpeg",
+    "active": false
+  }
+]
